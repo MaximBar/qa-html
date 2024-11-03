@@ -1,0 +1,22 @@
+img {
+    width: 600;
+    border: 2px solid blue;
+}
+
+body {
+    text-align: center;
+    font-size: 24px;
+    color: purple;
+    background-image: url("images/background.svg");
+    background-size:100%;
+}
+
+.logo {
+    width: 200;
+    height: 70;
+}
+
+#purp {
+    color: blueviolet;
+    size: 30px;
+}
