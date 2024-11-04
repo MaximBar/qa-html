@@ -6,6 +6,7 @@ img {
 body {
     text-align: center;
     font-size: 24px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     color: purple;
     background-image: url("images/background.svg");
     background-size:100%;
